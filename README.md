@@ -25,6 +25,11 @@
           
  # การใช้งาน MPROC.EXE
      MPROC.EXE   สั่งโปรแกรม run
+
+# สาธิตการ run
+
+https://github.com/user-attachments/assets/e3f4a0c0-a253-4825-9135-4ed46f0105d2
+
      
 # การสร้าง enviroment ในการสร้รงโปรแกรม
     สามารถดูได้จาก
