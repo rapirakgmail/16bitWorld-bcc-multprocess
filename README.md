@@ -5,6 +5,8 @@
     - โปรแกรมรองรับเฉพาะการโหลดแฟ้ม ".COM" เท่านั้น
     - พัฒนาโดยใช้  compiler ของ Borland C (3.x)   
 
+#แนวคิดการจัดการ process เป็นแบบ two-state-model
+    https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/
 
 # แฟ้ม
       1. MPROC.C  : source file ของโปรแกรม mulitple process
